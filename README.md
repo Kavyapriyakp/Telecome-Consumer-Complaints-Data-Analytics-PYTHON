@@ -1,14 +1,14 @@
 # Telecome-Consumer-Complaints-Data-Analytics-PYTHON
 Data Dictionary  
-Ticket #: Ticket number assigned to each complaint 
-Customer Complaint: Description of complaint 
-Date: Date of complaint 
-Time: Time of complaint 
-Received Via: Mode of communication of the complaint
-City: Customer city
-State: Customer state 
-Zipcode: Customer zip 
-Status: Status of complaint Filing on behalf of someone 
+-Ticket #: Ticket number assigned to each complaint 
+-Customer Complaint: Description of complaint 
+-Date: Date of complaint 
+-Time: Time of complaint 
+-Received Via: Mode of communication of the complaint
+-City: Customer city
+-State: Customer state 
+-Zipcode: Customer zip 
+-Status: Status of complaint Filing on behalf of someone 
 
 Analysis Task  
 - Import data into Python environment.
